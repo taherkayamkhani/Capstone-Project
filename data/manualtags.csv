@@ -1,0 +1,246 @@
+term,ngram,rank,tags
+computer science,2,149,DEPT
+good communication,2,142,SKILL
+problem solving,2,133,SKILL
+software development,2,109,SKILL
+information technology,2,99,DEPT
+written communication,2,99,SKILL
+interpersonal skills,2,90,SKILL
+balance sheet,2,63,SKILL
+excellent communication,2,63,SKILL
+written verbal,2,63,SKILL
+cross functional,2,60,SKILL
+project management,2,59,ROLE
+solving skills,2,59,SKILL
+customer service,2,58,DEPT
+electrical engineering,2,58,DEPT
+ms office,2,51,SKILL
+software engineering,2,51,ROLE
+customer support,2,48,ROLE
+front end,2,48,SKILL
+management skills,2,47,SKILL
+product development,2,43,DEPT
+software engineer,2,42,ROLE
+ci cd,2,41,SKILL
+verbal communication,2,41,SKILL
+full stack,2,40,ROLE
+continuous improvement,2,39,SKILL
+oral written,2,38,SKILL
+digital marketing,2,36,DEPT
+electrical electronics,2,36,DEPT
+development lifecycle,2,35,ROLE
+excellent written,2,35,SKILL
+object oriented,2,35,SKILL
+strong analytical,2,35,SKILL
+cause analysis,2,34,SKILL
+data structures,2,33,SKILL
+information security,2,33,DEPT
+technical support,2,33,ROLE
+architecture design,2,32,SKILL
+development team,2,32,DEPT
+web applications,2,32,SKILL
+work independently,2,32,ROLE
+business solutions,2,31,SKILL
+electrical engineer,2,31,ROLE
+social media,2,31,DEPT
+time management,2,31,SKILL
+software solutions,2,30,DEPT
+general accounting,2,29,SKILL
+income tax,2,29,DEPT
+production quality,2,29,DEPT
+voice support,2,29,ROLE
+business requirements,2,28,ROLE
+continuous integration,2,28,SKILL
+software design,2,28,SKILL
+application development,2,27,ROLE
+ms excel,2,27,SKILL
+design patterns,2,26,SKILL
+electrical systems,2,26,DEPT
+html css,2,26,SKILL
+mis reports,2,26,ROLE
+spring boot,2,26,SKILL
+web services,2,26,SKILL
+automobile industry,2,25,DEPT
+business development,2,25,ROLE
+customer satisfaction,2,25,DEPT
+node js,2,25,SKILL
+presentation skills,2,25,SKILL
+quality assurance,2,25,ROLE
+automobile engineer,2,24,ROLE
+project managers,2,24,ROLE
+unit testing,2,24,SKILL
+account management,2,23,DEPT
+electrical drawings,2,23,SKILL
+english communication,2,23,SKILL
+information systems,2,23,SKILL
+preventive maintenance,2,23,ROLE
+sql server,2,23,SKILL
+strong communication,2,23,SKILL
+technical issues,2,23,ROLE
+business units,2,21,DEPT
+change management,2,21,ROLE
+technical design,2,21,SKILL
+database design,2,20,SKILL
+electrical engineers,2,20,ROLE
+inbound calls,2,20,ROLE
+product manager,2,20,ROLE
+track record,2,20,SKILL
+web development,2,20,SKILL
+business process,2,19,ROLE
+cloud technologies,2,19,DEPT
+design specifications,2,19,SKILL
+electrical design,2,19,SKILL
+products services,2,19,DEPT
+software engineers,2,19,ROLE
+supply chain,2,19,DEPT
+tech electrical,2,19,ROLE
+micro services,2,18,SKILL
+operating systems,2,18,SKILL
+quality maintenance,2,18,ROLE
+ability learn,2,17,SKILL
+ability manage,2,17,SKILL
+decision making,2,17,SKILL
+machine learning,2,17,SKILL
+quality control,2,17,DEPT
+structures algorithms,2,17,SKILL
+ability communicate,2,15,SKILL
+accounts manager,2,15,ROLE
+agile,2,15,SKILL
+business processes,2,15,ROLE
+development testing,2,15,SKILL
+electrical maintenance,2,15,ROLE
+ability handle,2,14,SKILL
+senior management,2,14,ROLE
+web application,2,14,SKILL
+basic computer,2,13,SKILL
+english language,2,13,SKILL
+online marketing,2,13,DEPT
+product engineering,2,13,SKILL
+product management,2,13,ROLE
+system architecture,2,13,ROLE
+vendor management,2,13,DEPT
+ability understand,2,12,SKILL
+business analysts,2,12,ROLE
+microsoft office,2,12,SKILL
+sales executive,2,12,SKILL
+design,1,893,SKILL
+development,1,850,SKILL
+software,1,714,DEPT
+electrical,1,638,DEPT
+communication,1,553,SKILL
+support,1,524,SKILL
+sales,1,501,DEPT
+accounting,1,366,ROLE
+accounts,1,336,DEPT
+applications,1,300,SKILL
+customers,1,285,DEPT
+marketing,1,284,ROLE
+performance,1,272,SKILL
+maintenance,1,270,DEPT
+architecture,1,269,ROLE
+testing,1,261,SKILL
+commerce,1,253,DEPT
+application,1,247,SKILL
+manager,1,212,ROLE
+ecommerce,1,208,DEPT
+java,1,205,SKILL
+operations,1,205,DEPT
+lead,1,192,ROLE
+automobile,1,184,DEPT
+developing,1,178,SKILL
+production,1,174,ROLE
+automation,1,166,SKILL
+programming,1,164,SKILL
+infrastructure,1,152,DEPT
+documentation,1,151,SKILL
+analytical,1,146,SKILL
+audit,1,134,DEPT
+tally,1,132,SKILL
+sap,1,127,SKILL
+monitoring,1,126,ROLE
+database,1,123,SKILL
+sql,1,115,SKILL
+compliance,1,111,ROLE
+mechanical,1,111,DEPT
+leadership,1,110,ROLE
+domain,1,101,SKILL
+python,1,96,SKILL
+erp,1,92,SKILL
+manufacturing,1,87,DEPT
+drawings,1,85,SKILL
+architect,1,83,ROLE
+javascript,1,81,SKILL
+deployment,1,77,SKILL
+developer,1,75,ROLE
+analytics,1,71,DEPT
+troubleshooting,1,71,SKILL
+api,1,70,SKILL
+hardware,1,68,DEPT
+aws,1,67,SKILL
+microservices,1,60,SKILL
+networking,1,60,SKILL
+css,1,57,SKILL
+devops,1,56,SKILL
+coding,1,55,SKILL
+azure,1,53,SKILL
+banking,1,53,DEPT
+bpo,1,51,DEPT
+html,1,49,SKILL
+angular,1,47,SKILL
+scripting,1,47,SKILL
+budget,1,46,SKILL
+commissioning,1,46,ROLE
+debugging,1,46,SKILL
+accountant,1,43,ROLE
+kubernetes,1,43,SKILL
+docker,1,42,SKILL
+scrum,1,41,SKILL
+administration,1,40,ROLE
+healthcare,1,39,DEPT
+optimization,1,39,SKILL
+automotive,1,38,DEPT
+autocad,1,35,SKILL
+qa,1,33,SKILL
+auto,1,32,DEPT
+telecom,1,31,DEPT
+algorithms,1,29,SKILL
+frontend,1,29,SKILL
+auditing,1,28,SKILL
+director,1,28,ROLE
+j2ee,1,26,SKILL
+kpis,1,26,SKILL
+jenkins,1,25,SKILL
+mvc,1,25,SKILL
+nosql,1,25,SKILL
+sdlc,1,25,SKILL
+asp,1,24,SKILL
+bi,1,24,SKILL
+administrative,1,22,ROLE
+bookkeeping,1,22,ROLE
+advertising,1,21,DEPT
+ai,1,21,SKILL
+architects,1,21,ROLE
+html5,1,21,SKILL
+iti,1,21,DEPT
+kafka,1,21,SKILL
+pharma,1,21,DEPT
+ajax,1,20,SKILL
+cnc,1,20,SKILL
+mysql,1,20,SKILL
+jquery,1,19,SKILL
+mongodb,1,19,SKILL
+xml,1,19,SKILL
+analyst,1,18,ROLE
+pharmaceutical,1,18,DEPT
+analysts,1,17,ROLE
+android,1,17,SKILL
+json,1,17,SKILL
+saas,1,17,SKILL
+budgeting,1,16,SKILL
+salesforce,1,15,SKILL
+svn,1,15,SKILL
+nodejs,1,14,SKILL
+chartered,1,13,ROLE
+oops,1,13,SKILL
+bootstrap,1,12,SKILL
+datascience,1,12,SKILL
