@@ -5,7 +5,7 @@ capstone project
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 
-## Problem Statement.
+## Problem Statement
 
 Due to different reasons like lack of domain knowledge, experience, preparation time etc., many a times the questions asked to evaluate the candidate are not useful to understand his/her capabilities.
 
