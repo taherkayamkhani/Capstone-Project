@@ -1,4 +1,3 @@
-# G21_NLP_Q-A_BASED_JOBROLE
 capstone project
 
 
